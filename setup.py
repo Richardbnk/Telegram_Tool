@@ -11,7 +11,7 @@ setuptools.setup(
     url="https://github.com/Richardbnk/Telegram_Tool",
     packages=['telegram_tool'],
     
-    py_modules = ['telegram'],
+    py_modules = ['python-telegram-bot'],
     
     
     classifiers=[
