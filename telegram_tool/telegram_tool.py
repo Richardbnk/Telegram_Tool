@@ -7,7 +7,7 @@
 #    https://api.telegram.org/bot<YourBOTToken>/getUpdates
 """
 import telegram
-from telegram import ParseMode
+from telegram.constants import ParseMode
 import os
 import urllib
 import json
